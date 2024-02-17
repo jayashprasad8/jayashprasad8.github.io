@@ -4,15 +4,21 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Psychological Feature Space using Deep Neural Networks](/pdf/rock_study.pdf)
+<img src="images/project_image1.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Retail Sales Prediction using Amazon Web Services](/pdf/sample_presentation.pdf)
+<img src="images/project_image2.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+
+[Twitch Social Network Analysis](/pdf/twitch_project.pdf)
+<img src="images/project_image3.jpg?raw=true"/>
+
+---
+
+[Polycystic Ovary Syndrome Prediction using Classification Models](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
