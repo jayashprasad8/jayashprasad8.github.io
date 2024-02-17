@@ -14,7 +14,7 @@
 ---
 
 [Twitch Social Network Analysis](/pdf/twitch_project.pdf)
-<img src="images/project_image2.png?raw=true" width="400" height="200"/>
+<img src="images/project_image2.png?raw=true" width="100" height="200"/>
 
 ---
 
