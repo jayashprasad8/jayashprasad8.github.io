@@ -8,7 +8,7 @@
 <img src="images/project_image1.png?raw=true"/>
 
 ---
-[Retail Sales Prediction using Amazon Web Services](/pdf/sample_presentation.pdf)
+[Retail Sales Prediction using Amazon Web Services](/pdf/retail_sales.pdf)
 <img src="images/project_image3.png?raw=true"/>
 
 ---
