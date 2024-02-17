@@ -5,21 +5,21 @@
 ### Category Name 1 
 
 [Psychological Feature Space using Deep Neural Networks](/pdf/rock_study.pdf)
-<img src="images/project_image1.png?raw=true"/>
+<img src="images/project_image1.png?raw=true" width="400" height="500"/>
 
 ---
 [Retail Sales Prediction using Amazon Web Services](/pdf/retail_sales.pdf)
-<img src="images/project_image3.png?raw=true"/>
+<img src="images/project_image3.png?raw=true" width="400" height="500"/>
 
 ---
 
 [Twitch Social Network Analysis](/pdf/twitch_project.pdf)
-<img src="images/project_image2.png?raw=true"/>
+<img src="images/project_image2.png?raw=true" width="400" height="500"/>
 
 ---
 
 [Polycystic Ovary Syndrome Prediction using Classification Models](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true" width="400" height="500"/>
 
 ---
 
