@@ -9,12 +9,12 @@
 
 ---
 [Retail Sales Prediction using Amazon Web Services](/pdf/sample_presentation.pdf)
-<img src="images/project_image2.jpg?raw=true"/>
+<img src="images/project_image3.png?raw=true"/>
 
 ---
 
 [Twitch Social Network Analysis](/pdf/twitch_project.pdf)
-<img src="images/project_image2.jpg?raw=true"/>
+<img src="images/project_image2.png?raw=true"/>
 
 ---
 
