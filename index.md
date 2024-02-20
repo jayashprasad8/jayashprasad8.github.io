@@ -19,7 +19,7 @@
 ---
 
 [Polycystic Ovary Syndrome Prediction using Classification Models](http://example.com/)
-<img src="images/Pcos.png?raw=true" width="auto" height="200"/>
+<img src="images/Pcos.png?raw=true" width="auto" height="300"/>
 
 ---
 
@@ -29,7 +29,7 @@
 - [Retail Sales Prediction using Amazon Web Services](https://github.com/jayashprasad8/ecc-project-retail-sales-aws)
 - [Twitch Social Network Analysis](https://github.iu.edu/janandan/hpga-project-twitch-gamers)
 - [Polycystic Ovary Syndrome Prediction using Classification Models](https://github.com/jayashprasad8/PCOS-Prediction-Data-Mining)
-- [Project 5 Title](http://example.com/)
+<!-- - [Project 5 Title](http://example.com/) -->
 
 ---
 
