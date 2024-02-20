@@ -5,11 +5,11 @@
 ### Projects
 
 [Psychological Feature Space using Deep Neural Networks](/pdf/rock_study.pdf)
-<img src="images/project_image1.png?raw=true" width="400" height="300"/>
+<img src="images/project_image1.png?raw=true" width="600" height="300"/>
 
 ---
 [Retail Sales Prediction using Amazon Web Services](/pdf/retail_sales.pdf)
-<img src="images/project_image3.png?raw=true" width="400" height="300"/>
+<img src="images/project_image3.png?raw=true" width="600" height="300"/>
 
 ---
 
