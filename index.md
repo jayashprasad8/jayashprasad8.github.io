@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
 [Psychological Feature Space using Deep Neural Networks](/pdf/rock_study.pdf)
 <img src="images/project_image1.png?raw=true" width="400" height="200"/>
@@ -14,7 +14,7 @@
 ---
 
 [Twitch Social Network Analysis](/pdf/twitch_project.pdf)
-<img src="images/project_image2.png?raw=true" width="auto" height="100"/>
+<img src="images/project_image2.png?raw=true" width="auto" height="150"/>
 
 ---
 
