@@ -1,11 +1,11 @@
 title: Jayesh Prasad Anandan # your name (or website title) here
 logo: "/images/Professional Photo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <h1>Part-Time Marketing Data Infrastructure Analyst</h1>
+  <h3>Part-Time Marketing Data Infrastructure Analyst</h3>
   <p>Indiana University Bloomington</p>
-  <h1>Data Engineer</h1>
+  <h3>Data Engineer</h3>
   <p>Tata Consultancy Services Limited</p>
-  <h1>About Me</h1>
+  <h3>About Me</h3>
   <p>Passionate and driven Data Scientist with a Master's degree in Data Science and a strong background in machine learning, statistical analysis, and data engineering. Experienced in building and deploying advanced machine learning models to solve real-world problems. Proficient in Python, R, and various data science libraries/frameworks including TensorFlow, PySpark, and scikit-learn.</p> 
   <br><br>
   <br><br>
