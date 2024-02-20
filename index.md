@@ -19,16 +19,16 @@
 ---
 
 [Polycystic Ovary Syndrome Prediction using Classification Models](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true" width="400" height="200"/>
+<img src="images/Pcos.png?raw=true" width="auto" height="200"/>
 
 ---
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
+- [Psychological Feature Space using Deep Neural Networks](https://github.iu.edu/janandan/DeepLearningSystemsProject)
+- [Retail Sales Prediction using Amazon Web Services](https://github.com/jayashprasad8/ecc-project-retail-sales-aws)
+- [Twitch Social Network Analysis](https://github.iu.edu/janandan/hpga-project-twitch-gamers)
+- [Polycystic Ovary Syndrome Prediction using Classification Models](https://github.com/jayashprasad8/PCOS-Prediction-Data-Mining)
 - [Project 5 Title](http://example.com/)
 
 ---
