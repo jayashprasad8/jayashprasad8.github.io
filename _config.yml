@@ -7,8 +7,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <p>Tata Consultancy Services Limited</p>
   <h3>About Me</h3>
   <p>Passionate and driven Data Scientist with a Master's degree in Data Science and a strong background in machine learning, statistical analysis, and data engineering. Experienced in building and deploying advanced machine learning models to solve real-world problems. Proficient in Python, R, and various data science libraries/frameworks including TensorFlow, PySpark, and scikit-learn.</p> 
-  <br><br>
-  <br><br>
   <a href="https://www.linkedin.com/in/jayeshprasad28/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
