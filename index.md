@@ -29,7 +29,7 @@
 - [Retail Sales Prediction using Amazon Web Services](https://github.com/jayashprasad8/ecc-project-retail-sales-aws)
 - [Twitch Social Network Analysis](https://github.iu.edu/janandan/hpga-project-twitch-gamers)
 - [Polycystic Ovary Syndrome Prediction using Classification Models](https://github.com/jayashprasad8/PCOS-Prediction-Data-Mining)
-<!-- - [Project 5 Title](http://example.com/) -->
+- [Resume](https://github.com/jayashprasad8/Resume/blob/main/Jayesh%20Prasad%20Anandan%20Resume.pdf)
 
 ---
 
