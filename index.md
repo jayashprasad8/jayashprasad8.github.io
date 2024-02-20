@@ -23,7 +23,7 @@
 
 ---
 
-### Category Name 2
+### Project Repositories
 
 - [Psychological Feature Space using Deep Neural Networks](https://github.iu.edu/janandan/DeepLearningSystemsProject)
 - [Retail Sales Prediction using Amazon Web Services](https://github.com/jayashprasad8/ecc-project-retail-sales-aws)
