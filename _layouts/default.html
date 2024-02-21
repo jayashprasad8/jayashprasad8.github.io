@@ -17,6 +17,7 @@
 
   gtag('config', 'G-GSY6P9S4LK');
 </script>
+<script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
    <style type="text/css">
       #profile_pic {
          border-radius: 50%;
@@ -37,7 +38,7 @@
       }
       /* ---- reset ---- */
 
-      /* body {
+      body {
       margin: 0;
       font:normal 75% Arial, Helvetica, sans-serif;
       }
@@ -48,7 +49,7 @@
 
       /* ---- particles.js container ---- */
 
-      /* #particles-js{
+      #particles-js{
          width: auto;
          height: auto;
          background-color: rgb(235, 235, 235);
@@ -56,38 +57,18 @@
          background-size: auto auto;
          background-position: 50% 50%;
          background-repeat: no-repeat;
-      } */
-
-      /* ---- reset ---- */
-      body {
-      margin: 0;
-      font: normal 75% Arial, Helvetica, sans-serif;
       }
-      canvas {
-      display: block;
-      vertical-align: bottom;
-      } /* ---- particles.js container ---- */
 
-      #particles-js {
-      position: absolute;
-      width: 100%;
-      height: 100%;
-      background-color:  rgb(235, 235, 235);
-      background-image: url("");
-      background-repeat: no-repeat;
-      background-size: cover;
-      background-position: 50% 50%;
-      } 
-      
       /* ---- stats.js ---- */
-      .count-particles {
+
+      /* .count-particles{
       background: #000022;
       position: absolute;
       top: 48px;
       left: 0;
       width: 80px;
-      color: #13e8e9;
-      font-size: 0.8em;
+      color: #13E8E9;
+      font-size: .8em;
       text-align: left;
       text-indent: 4px;
       line-height: 14px;
@@ -95,23 +76,25 @@
       font-family: Helvetica, Arial, sans-serif;
       font-weight: bold;
       }
-      .js-count-particles {
+
+      .js-count-particles{
       font-size: 1.1em;
       }
+
       #stats,
-      .count-particles {
-      -webkit-user-select: none;
-      margin-top: 5px;
-      margin-left: 5px;
+      .count-particles{
+         user-select: none;
+         -webkit-user-select: none;
       }
-      #stats {
+
+      #stats{
       border-radius: 3px 3px 0 0;
       overflow: hidden;
       }
-      .count-particles {
-      border-radius: 0 0 3px 3px;
-      }
 
+      .count-particles{
+      border-radius: 0 0 3px 3px;
+      } */
    </style>
    <meta charset="UTF-8">
    <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -159,10 +142,7 @@
       </footer>
    </div>
    <div id="particles-js"></div>
-   <!-- particles.js container --> <div id="particles-js"></div>
-   <!-- stats - count particles <div class="count-particles"> <span class="js-count-particles">--</span> particles </div> -->
-   <!-- particles.js lib - https://github.com/VincentGarreau/particles.js --> <script src="http://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script> 
-   <!-- stats.js lib <script src="http://threejs.org/examples/js/libs/stats.min.js"></script> -->
+   <script src="particles.js"></script>
    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
 </body>
 </html>
