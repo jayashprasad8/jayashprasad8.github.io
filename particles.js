@@ -8,13 +8,13 @@ particlesJS("particles-js", {
       }
     },
     "color": {
-      "value": "#aaaaaa" // Adjust the color here, e.g., a very dull gray
+      "value": "#999999" // Adjust the color here, e.g., a very dull gray
     },
     "shape": {
       "type": "circle",
       "stroke": {
         "width": 0,
-        "color": "#ff0000"
+        "color": "#999999"
       },
       "polygon": {
         "nb_sides": 5
@@ -48,7 +48,7 @@ particlesJS("particles-js", {
     "line_linked": {
       "enable": true,
       "distance": 100,
-      "color": "#aaaaaa", // Adjust the color here, same as the particle color
+      "color": "#999999", // Adjust the color here, same as the particle color
       "opacity": 1,
       "width": 1
     },
