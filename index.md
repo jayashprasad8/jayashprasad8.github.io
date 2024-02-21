@@ -25,10 +25,10 @@
 
 ### Project Repositories
 
-- [Psychological Feature Space using Deep Neural Networks](https://github.iu.edu/janandan/DeepLearningSystemsProject)
-- [Retail Sales Prediction using Amazon Web Services](https://github.com/jayashprasad8/ecc-project-retail-sales-aws)
-- [Twitch Social Network Analysis](https://github.iu.edu/janandan/hpga-project-twitch-gamers)
-- [Polycystic Ovary Syndrome Prediction using Classification Models](https://github.com/jayashprasad8/PCOS-Prediction-Data-Mining)
+- [Psychological Feature Space using Deep Neural Networks](https://github.com/jayashprasad8/Psychological-Feature-Space-using-Deep-Neural-Networks)
+- [Retail Sales Prediction using Amazon Web Services](https://github.com/jayashprasad8/Retail-Sales-Prediction-using-Amazon-Web-Services)
+- [Twitch Social Network Analysis](https://github.com/jayashprasad8/Twitch-Social-Network-Analysis)
+- [Polycystic Ovary Syndrome Prediction using Classification Models](https://github.com/jayashprasad8/Polycystic-Ovary-Syndrome-Prediction-using-Classification-Models)
 - [Resume](https://github.com/jayashprasad8/Resume/blob/main/Jayesh%20Prasad%20Anandan%20Resume.pdf)
 
 ---
