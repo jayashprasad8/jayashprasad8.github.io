@@ -40,21 +40,23 @@
 
       body {
       margin: 0;
-      font:normal 75% Arial, Helvetica, sans-serif;
+      /* font:normal 75% Arial, Helvetica, sans-serif; */
       }
 
       canvas {
       display: block;
+      vertical-align: bottom;
       }
 
       /* ---- particles.js container ---- */
 
       #particles-js{
+         position: absolute;
          width: auto;
          height: auto;
          background-color: rgb(235, 235, 235);
          background-image: url('');
-         background-size: auto auto;
+         background-size: cover;
          background-position: 50% 50%;
          background-repeat: no-repeat;
       }
