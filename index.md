@@ -18,7 +18,7 @@
 
 ---
 
-[Polycystic Ovary Syndrome Prediction using Classification Models](http://example.com/)
+[Polycystic Ovary Syndrome Prediction using Classification Models](/pdf/Pcos.pdf)
 <img src="images/Pcos.png?raw=true" width="auto" height="300"/>
 
 ---
